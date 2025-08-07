@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm **Satyajit Sethy**, a passionate **Cybersecurity profe
 
 ### 💻 Programming  
 - <img src="https://img.icons8.com/color/48/000000/python.png" width="20"/> Python (Automation, Scripting)  
-- <img src="https://img.icons8.com/color/48/000000/html-5.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/css3.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20"/> HTML | CSS | JavaScript  
+- <img src="https://img.icons8.com/color/48/000000/html-5.png" width="20"/> HTML <img src="https://img.icons8.com/color/48/000000/css3.png" width="20"/> CSS <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20"/> JavaScript  
 - <img src="https://img.icons8.com/color/48/000000/mysql.png" width="20"/> MySQL | Database Security  
 
 ### ⚙️ DevOps & Tools  
@@ -36,9 +36,9 @@ Welcome to my GitHub! I'm **Satyajit Sethy**, a passionate **Cybersecurity profe
 
 ## 🌐 Let's Connect
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/> LinkedIn](https://www.linkedin.com/in/satyajitsethy/)  
-[<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30"/> Instagram](https://www.instagram.com/thesatyajitsethy/)  
-[<img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="30"/> Telegram](https://t.me/satyajitsethy)  
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/satyajitsethy/)  
+[<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30"/>](https://www.instagram.com/thesatyajitsethy/)  
+[<img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="30"/>](https://t.me/satyajitsethy)  
 
 ---
 
