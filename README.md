@@ -36,9 +36,7 @@ Welcome to my GitHub! I'm **Satyajit Sethy**, a passionate **Cybersecurity profe
 
 ## 🌐 Let's Connect
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/satyajitsethy/)  
-[<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30"/>](https://www.instagram.com/thesatyajitsethy/)  
-[<img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="30"/>](https://t.me/satyajitsethy)  
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/satyajitsethy/) [<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30"/>](https://www.instagram.com/thesatyajitsethy/) [<img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="30"/>](https://t.me/satyajitsethy)  
 
 ---
 
